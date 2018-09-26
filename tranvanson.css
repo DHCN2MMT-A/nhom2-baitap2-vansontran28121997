@@ -1,0 +1,82 @@
+.container {
+   width: 1400;
+   height: 20px;
+   border: 1px solid ;
+   padding: 10px;
+   background: white;
+}
+#a1{
+   width: 800px;
+   height: 10x;
+   background: white;
+   float: left;
+
+}
+#a2{
+ width: 550px;
+ height: 10px;
+ float: right;
+}
+.clear{
+ clear: both;
+}
+.a3{
+  color: red;
+}
+.a4{
+  color: blue;
+}
+#h1{
+  float: right;
+}
+#h2{
+  padding-top: 6px;
+  text-align: center;
+  color: red;
+}
+.box{
+  width: 1320px;
+  height: 400px;
+}
+.leftBox{
+  float: left;
+  width: 340px;
+  height: 420px;
+
+  padding-left:110px;
+}
+.rightBox{
+  width: 660px;
+  height: 420px;
+  float: right;
+  
+
+
+}
+#elon{
+  height: 200px;
+  width: 200px;
+  padding-left: 100px;
+}
+#Child{
+  float: right;
+}
+#ComFou{
+  margin-bottom: 45px;
+}
+#Zip2{
+  margin-top: 20px;
+}
+#X{
+  margin-bottom: 50px;
+}
+.centerBox{
+  padding-top: 20px;
+  margin-left: 210px;
+
+  margin-bottom: 5px;
+}
+#PopMedia
+{
+  margin-top: 240px;
+}
