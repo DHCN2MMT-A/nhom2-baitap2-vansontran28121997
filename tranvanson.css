@@ -1,19 +1,19 @@
 .container {
    width: 1400;
    height: 20px;
-   border: 1px solid ;
+   border: 1px solid #333;
    padding: 10px;
-   background: white;
+   background: #e8e8e8;
 }
 #a1{
    width: 800px;
    height: 10x;
-   background: white;
+   background: #e8e8e8;
    float: left;
 
 }
 #a2{
- width: 550px;
+ width: 600px;
  height: 10px;
  float: right;
 }
@@ -30,17 +30,17 @@
   float: right;
 }
 #h2{
-  padding-top: 6px;
+  padding-top: 5px;
   text-align: center;
   color: red;
 }
 .box{
-  width: 1320px;
+  width: 1350px;
   height: 400px;
 }
 .leftBox{
   float: left;
-  width: 340px;
+  width: 360px;
   height: 420px;
 
   padding-left:110px;
@@ -62,7 +62,7 @@
   float: right;
 }
 #ComFou{
-  margin-bottom: 45px;
+  margin-bottom: 40px;
 }
 #Zip2{
   margin-top: 20px;
@@ -72,7 +72,7 @@
 }
 .centerBox{
   padding-top: 20px;
-  margin-left: 210px;
+  margin-left: 200px;
 
   margin-bottom: 5px;
 }
